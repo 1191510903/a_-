@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# a_-
-=======
 # a_web
->>>>>>> 4a39f00... Create README.md
+前后端分离项目
+前端：react+umi+fetch
+后端：springboot+springjpa+mybatis+springsecurity
